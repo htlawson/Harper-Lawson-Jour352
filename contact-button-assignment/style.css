@@ -1,1 +1,27 @@
-
+.body {
+    background-color: floralwhite;
+    text-align: center
+}
+.button {
+    background-color: lavender;
+    color: mediumpurple;
+    font-family: sans-serif;
+    width: 150px;
+    padding: 10px;
+    margin: 50px;
+    border: none;
+    font-size: 15px;
+    border-radius: 20px
+}
+.button:hover {
+    background-color:mediumpurple;
+    color: lavender
+}
+.h1 {
+    font-family: serif;
+    color: saddlebrown
+}
+.h2 {
+    font-family: serif;
+    color: tan
+}
