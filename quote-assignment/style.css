@@ -1,1 +1,30 @@
+/*
+MY COLOR PALETTE
+Light beige - #dbb3b1
+Dark beige - #c89fa3
+Purple - #a67f8e
+Light brown - #6c534e
+Dark brown - #2c1a1d
+*/
 
+body {
+    background-color: #dbb3b1;
+    text-align:center;
+}
+
+div {
+    width: 300px;
+    height: 400px;
+    text-align:center;
+    font-size:44px;
+    font-family: 'Golos Text', sans-serif;
+    color: #6c534e;
+    border: 3px solid white;
+    padding: 50px 50px 50px 50px;
+    margin: 50px 50px 50px 50px
+}
+#highlight {
+    color: #2c1a1d;
+    font-weight: 1000
+    
+}
