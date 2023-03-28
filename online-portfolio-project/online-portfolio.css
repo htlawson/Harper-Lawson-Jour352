@@ -1,1 +1,62 @@
-
+.container-fluid {
+    background-color: #dbb3b1;
+    height: 100vh;
+    width: 100vw;
+}
+#footer {
+    color: #a67f8e;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.h1 {
+    color: #2c1a1d;
+    font-size: 50px;
+    font-family: serif;
+    text-align: center;
+}
+.h2 {
+    color: #6c534e;
+    font-size: 35px;
+    font-family: serif;
+    text-align: center;
+}
+.experience {
+    color: #2c1a1d;
+    font-size: 20px;
+    font-family: serif;
+}
+.skills {
+    color: #2c1a1d;
+    font-size: 20px;
+    font-family: serif;
+}
+.education {
+    color: #2c1a1d;
+    font-size: 20px;
+    font-family: serif;
+}
+.experience-info {
+    color: #6c534e;
+    font-size: 13px;
+    font-family: sans-serif;
+}
+.skills-info {
+    color: #6c534e;
+    font-size: 13px;
+    font-family: sans-serif;
+}
+.education-info {
+    color: #6c534e;
+    font-size: 13px;
+    font-family: sans-serif;
+}
+.nav-link {
+    text-align: center;
+    color: #dbb3b1;
+    background-color: #a67f8e;
+    font-family: sans-serif
+}
+#headshot {
+    height: 10px;
+        
+}
