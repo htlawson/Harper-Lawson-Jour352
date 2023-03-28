@@ -1,6 +1,6 @@
 .container-fluid {
     background-color: #dbb3b1;
-    height: 100vh;
+    height: 120vh;
     width: 100vw;
 }
 #footer {
@@ -57,6 +57,10 @@
     font-family: sans-serif
 }
 #headshot {
-    height: 10px;
-        
+    height: 200px;
+    margin: 20px 20px 20px 150px;
+    align-content: center;  
+}
+.button {
+    background-color: #a67f8e; color: white; font-size: 20px; border: none; width: 100px; font-family: sans-serif
 }
