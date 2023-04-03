@@ -1,3 +1,4 @@
+@media {
 .container-fluid {
     background-color: #dbb3b1;
     height: 120vh;
@@ -12,13 +13,13 @@
     color: #2c1a1d;
     font-size: 50px;
     font-family: serif;
-    text-align: center;
+    text-align: left;
 }
 .h2 {
     color: #6c534e;
     font-size: 35px;
     font-family: serif;
-    text-align: center;
+    text-align: left;
 }
 .experience {
     color: #2c1a1d;
@@ -58,9 +59,99 @@
 }
 #headshot {
     height: 200px;
-    margin: 20px 20px 20px 150px;
+    margin: 20px 20px 20px 0px;
     align-content: center;  
 }
 .button {
-    background-color: #a67f8e; color: white; font-size: 20px; border: none; width: 100px; font-family: sans-serif
+    background-color: #a67f8e;
+    color: white;
+    font-size: 20px;
+    border: none;
+    width: 150px;
+    font-family: sans-serif;
+    border-radius: 8px;
+    padding:8px
 }
+}
+@media (min-width:576px) {
+.container-fluid {
+    height: 160vh;
+    width: 200vw;
+    }
+#footer {
+    font-size: 17px; 
+    }  
+.h1 {
+    font-size: 72px;
+    }
+.h2 {
+    font-size: 45px;
+    }
+.experience {
+    font-size: 30px;
+}
+.skills {
+    font-size: 30px;
+}
+.education {
+    font-size: 30px;
+}
+.experience-info {
+    font-size: 17px;
+}
+.skills-info {
+    font-size: 17px;
+}
+.education-info {
+    font-size: 17px;
+}
+#headshot {
+    height: 250px;
+    margin: 20px 20px 20px 0px;  
+}
+.button {
+    font-size: 25px;
+    width: 175px;
+}    
+}   
+@media (min-width:992px) {
+.container-fluid {
+    height: 200vh;
+    width: 300vw;    
+    }
+#footer {
+    font-size: 25px; 
+    }  
+.h1 {
+    font-size: 100px;
+    }
+.h2 {
+    font-size: 75px;
+    }
+.experience {
+    font-size: 50px;
+}
+.skills {
+    font-size: 50px;
+}
+.education {
+    font-size: 50px;
+}
+.experience-info {
+    font-size: 22px;
+}
+.skills-info {
+    font-size: 22px;
+}
+.education-info {
+    font-size: 22px;
+}
+#headshot {
+    height: 300px;
+    margin: 30px 30px 30px 0px;  
+}
+.button {
+    font-size: 30px;
+    width: 175px;
+}    
+    }
