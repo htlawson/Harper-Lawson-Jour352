@@ -1,1 +1,34 @@
-
+@media {
+#headshot {
+    width: 300px;
+    float: left;
+    margin: 25px;
+}
+#body {
+    font-family: Arial, sans-serif;
+}
+#contact {
+    font-weight: bold;
+    color: black;
+    font-size: 20px;
+}
+#contact:hover {
+    color: red;
+}
+#info {
+    width: 700px;
+    margin:auto;
+}
+}
+#footer {
+    position: fixed;
+    bottom: 0;
+    background-color: azure;
+    padding: 5px;
+    width:auto;
+}
+@media (max-width:576px) {
+    #headshot {
+        float: none
+    }
+}   
