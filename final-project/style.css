@@ -1,0 +1,117 @@
+@media {
+.Title {
+    font-family: "Bebas Neue";
+    font-size: 80px
+}
+.Subtitle {
+    font-family: "Bebas Neue";
+    font-size: 40px
+}
+#fentanyl_pic {
+    width: 500px
+}
+.Byline {
+    font-family: sans-serif;
+    font-size: 18px
+}
+.Menu {
+    font-family: "Oswald";
+    font-size: 30px
+}
+.nav-item {
+    font-family: sans-serif;
+    font-size: 18px
+}
+.Q1 {
+    font-family: "Oswald";
+    font-size: 30px
+}
+.Q2 {
+    font-family: "Oswald";
+    font-size: 30px
+}
+#lethal_dose_pic {
+    width: 500px
+}
+.Q3 {
+    font-family: "Oswald";
+    font-size: 30px
+}
+.Q4 {
+    font-family: "Oswald";
+    font-size: 30px
+}
+#rainbow_pills_pic {
+    width: 500px
+}
+.Q5 {
+    font-family: "Oswald";
+    font-size: 30px
+}
+.Q6 {
+    font-family: "Oswald";
+    font-size: 30px
+}
+.Q7 {
+    font-family: "Oswald";
+    font-size: 30px
+}
+.Q8 {
+    font-family: "Oswald";
+    font-size: 30px
+}
+.Q9 {
+    font-family: "Oswald";
+    font-size: 30px
+}
+.Q10 {
+    font-family: "Oswald";
+    font-size: 30px
+}
+.Q11 {
+    font-family: "Oswald";
+    font-size: 30px
+}
+.Q12 {
+    font-family: "Oswald";
+    font-size: 30px
+}
+}
+@media (min-width:576px) {
+    .Title {
+    font-family: "Bebas Neue";
+    font-size: 100px
+}
+    .Subtitle {
+    font-family: "Bebas Neue";
+    font-size: 50px
+}
+    #fentanyl_pic {
+    width: 700px
+}
+    #lethal_dose_pic {
+    width: 700px
+}
+    #rainbow_pills_pic {
+    width: 700px
+}
+}
+@media (min-width:992px) {
+    .Title {
+    font-family: "Bebas Neue";
+    font-size: 120px
+}
+    .Subtitle {
+    font-family: "Bebas Neue";
+    font-size: 60px
+}
+    #fentanyl_pic {
+    width: 900px
+}
+    #lethal_dose_pic {
+    width: 900px
+}
+    #rainbow_pills_pic {
+    width: 900px
+}
+}
