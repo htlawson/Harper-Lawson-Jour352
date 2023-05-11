@@ -1,117 +1,166 @@
 @media {
-.Title {
-    font-family: "Bebas Neue";
-    font-size: 80px
+	.container {
+		background-color: azure
+	}
+	a:link {
+		color: teal
+	}
+	a:visited {
+		color: slategray
+	}
+	a:hover {
+		color: lightseagreen
+	}
+	a:active {
+		color: lightslategray
+	}
+	.Title {
+		font-family: "Bebas Neue";
+		font-size: 80px;
+	}
+	.Subtitle {
+		font-family: "Bebas Neue";
+		font-size: 40px;
+		color: darkslategray
+	}
+	#fentanyl_pic {
+		width: 500px
+	}
+	.Byline {
+		font-family: sans-serif;
+		font-size: 18px;
+		color: teal
+	}
+	.Menu {
+		font-family: "Bebas Neue";
+		font-size: 30px;
+		color: darkslategray
+	}
+	.nav-item {
+		font-family: sans-serif;
+		font-size: 18px
+	}
+	.Q1 {
+		font-family: "Bebas Neue";
+		font-size: 30px;
+		color: darkslategray
+	}
+	.Q2 {
+		font-family: "Bebas Neue";
+		font-size: 30px;
+		color: darkslategray
+	}
+	#lethal_dose_pic {
+		width: 500px
+	}
+	.Q3 {
+		font-family: "Bebas Neue";
+		font-size: 30px;
+		color: darkslategray
+	}
+	.quote {
+		font-family: "Bebas Neue";
+		font-size: 40px;
+		background-color: darkslategray;
+		color: white;
+	}
+	.Q4 {
+		font-family: "Bebas Neue";
+		font-size: 30px;
+		color: darkslategray
+	}
+	#rainbow_pills_pic {
+		width: 500px
+	}
+	.Q5 {
+		font-family: "Bebas Neue";
+		font-size: 30px;
+		color: darkslategray
+	}
+	.Q6 {
+		font-family: "Bebas Neue";
+		font-size: 30px;
+		color: darkslategray
+	}
+	.Q7 {
+		font-family: "Bebas Neue";
+		font-size: 30px;
+		color: darkslategray
+	}
+	.Q8 {
+		font-family: "Bebas Neue";
+		font-size: 30px;
+		color: darkslategray
+	}
+	.Q9 {
+		font-family: "Bebas Neue";
+		font-size: 30px;
+		color: darkslategray
+	}
+	.Q10 {
+		font-family: "Bebas Neue";
+		font-size: 30px;
+		color: darkslategray
+	}
+	.Q11 {
+		font-family: "Bebas Neue";
+		font-size: 30px;
+		color: darkslategray
+	}
+	.Q12 {
+		font-family: "Bebas Neue";
+		font-size: 30px;
+		color: darkslategray
+	}
 }
-.Subtitle {
-    font-family: "Bebas Neue";
-    font-size: 40px
-}
-#fentanyl_pic {
-    width: 500px
-}
-.Byline {
-    font-family: sans-serif;
-    font-size: 18px
-}
-.Menu {
-    font-family: "Oswald";
-    font-size: 30px
-}
-.nav-item {
-    font-family: sans-serif;
-    font-size: 18px
-}
-.Q1 {
-    font-family: "Oswald";
-    font-size: 30px
-}
-.Q2 {
-    font-family: "Oswald";
-    font-size: 30px
-}
-#lethal_dose_pic {
-    width: 500px
-}
-.Q3 {
-    font-family: "Oswald";
-    font-size: 30px
-}
-.Q4 {
-    font-family: "Oswald";
-    font-size: 30px
-}
-#rainbow_pills_pic {
-    width: 500px
-}
-.Q5 {
-    font-family: "Oswald";
-    font-size: 30px
-}
-.Q6 {
-    font-family: "Oswald";
-    font-size: 30px
-}
-.Q7 {
-    font-family: "Oswald";
-    font-size: 30px
-}
-.Q8 {
-    font-family: "Oswald";
-    font-size: 30px
-}
-.Q9 {
-    font-family: "Oswald";
-    font-size: 30px
-}
-.Q10 {
-    font-family: "Oswald";
-    font-size: 30px
-}
-.Q11 {
-    font-family: "Oswald";
-    font-size: 30px
-}
-.Q12 {
-    font-family: "Oswald";
-    font-size: 30px
-}
-}
-@media (min-width:576px) {
-    .Title {
-    font-family: "Bebas Neue";
-    font-size: 100px
-}
-    .Subtitle {
-    font-family: "Bebas Neue";
-    font-size: 50px
-}
-    #fentanyl_pic {
-    width: 700px
-}
-    #lethal_dose_pic {
-    width: 700px
-}
-    #rainbow_pills_pic {
-    width: 700px
-}
+@media (min-width:768px) {
+	.Title {
+		font-size: 100px
+	}
+	.Subtitle {
+		font-size: 50px
+	}
+	#fentanyl_pic {
+		width: 700px
+	}
+	#lethal_dose_pic {
+		width: 700px
+	}
+	#rainbow_pills_pic {
+		width: 700px
+	}
 }
 @media (min-width:992px) {
-    .Title {
-    font-family: "Bebas Neue";
-    font-size: 120px
+	.Title {
+		font-size: 120px
+	}
+	.Subtitle {
+		font-size: 60px
+	}
+	#fentanyl_pic {
+		width: 900px
+	}
+	#lethal_dose_pic {
+		width: 900px
+	}
+	#rainbow_pills_pic {
+		width: 900px
+	}
 }
-    .Subtitle {
-    font-family: "Bebas Neue";
-    font-size: 60px
-}
-    #fentanyl_pic {
-    width: 900px
-}
-    #lethal_dose_pic {
-    width: 900px
-}
-    #rainbow_pills_pic {
-    width: 900px
-}
+@media (min-width:1200px) {
+	.Title {
+		font-size: 140px
+	}
+	.Subtitle {
+		font-size: 80px
+	}
+	#fentanyl_pic {
+		width: 1100px
+	}
+	#lethal_dose_pic {
+		width: 1100px
+	}
+	#rainbow_pills_pic {
+		width: 1100px
+	}
 }
