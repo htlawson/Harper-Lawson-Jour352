@@ -138,6 +138,9 @@
     .nav-link {
         font-size: 20px
     }
+    .quote {
+        font-size: 50px
+    }
 	#fentanyl_pic {
 		width: 700px
 	}
@@ -212,6 +215,9 @@
     .nav-link {
         font-size: 23px
     }
+    .quote {
+        font-size: 60px
+    }
     .Q1 {
         font-size: 50px
     }
@@ -270,6 +276,9 @@
     }
     .nav-link {
         font-size: 26px
+    }
+    .quote {
+        font-size: 70px
     }
     .Menu {
         font-size: 60px
