@@ -1,7 +1,15 @@
 @media {
-	.container {
-		background-color: azure
+    .body {
+        font-family: sans-serif;
+        font-size: 15px
+    }
+	.container-fluid {
+		background-color: azure;
 	}
+    .nav-link {
+        font-size: 17px;
+        font-weight: 600
+    }
 	a:link {
 		color: teal
 	}
@@ -63,6 +71,10 @@
 		font-size: 40px;
 		background-color: darkslategray;
 		color: white;
+        border-style: inset;
+        border-width: 10px;
+        border-color: teal;
+        text-shadow: 2px 2px black
 	}
 	.Q4 {
 		font-family: "Bebas Neue";
@@ -120,6 +132,12 @@
 	.Subtitle {
 		font-size: 50px
 	}
+    .body {
+        font-size: 18px
+    }
+    .nav-link {
+        font-size: 20px
+    }
 	#fentanyl_pic {
 		width: 700px
 	}
@@ -129,6 +147,45 @@
 	#rainbow_pills_pic {
 		width: 700px
 	}
+    .Menu {
+        font-size: 40px
+    }
+    .Q1 {
+        font-size: 40px
+    }
+    .Q2 {
+        font-size: 40px
+    }
+    .Q3 {
+        font-size: 40px
+    }
+    .Q4 {
+        font-size: 40px
+    }
+    .Q5 {
+        font-size: 40px
+    }
+    .Q6 {
+        font-size: 40px
+    }
+    .Q7 {
+        font-size: 40px
+    }
+    .Q8 {
+        font-size: 40px
+    }
+    .Q9 {
+        font-size: 40px
+    }
+    .Q10 {
+        font-size: 40px
+    }
+    .Q11 {
+        font-size: 40px
+    }
+    .Q12 {
+        font-size: 40px
+    }
 }
 @media (min-width:992px) {
 	.Title {
@@ -146,6 +203,51 @@
 	#rainbow_pills_pic {
 		width: 900px
 	}
+    .body {
+        font-size: 21px
+    }
+    .Menu {
+        font-size: 50px
+    }
+    .nav-link {
+        font-size: 23px
+    }
+    .Q1 {
+        font-size: 50px
+    }
+    .Q2 {
+        font-size: 50px
+    }
+    .Q3 {
+        font-size: 50px
+    }
+    .Q4 {
+        font-size: 50px
+    }
+    .Q5 {
+        font-size: 50px
+    }
+    .Q6 {
+        font-size: 50px
+    }
+    .Q7 {
+        font-size: 50px
+    }
+    .Q8 {
+        font-size: 50px
+    }
+    .Q9 {
+        font-size: 50px
+    }
+    .Q10 {
+        font-size: 50px
+    }
+    .Q11 {
+        font-size: 50px
+    }
+    .Q12 {
+        font-size: 50px
+    }
 }
 @media (min-width:1200px) {
 	.Title {
@@ -163,4 +265,49 @@
 	#rainbow_pills_pic {
 		width: 1100px
 	}
+    .body {
+        font-size: 24px
+    }
+    .nav-link {
+        font-size: 26px
+    }
+    .Menu {
+        font-size: 60px
+    }
+    .Q1 {
+        font-size: 60px
+    }
+    .Q2 {
+        font-size: 60px
+    }
+    .Q3 {
+        font-size: 60px
+    }
+    .Q4 {
+        font-size: 60px
+    }
+    .Q5 {
+        font-size: 60px
+    }
+    .Q6 {
+        font-size: 60px
+    }
+    .Q7 {
+        font-size: 60px
+    }
+    .Q8 {
+        font-size: 60px
+    }
+    .Q9 {
+        font-size: 60px
+    }
+    .Q10 {
+        font-size: 60px
+    }
+    .Q11 {
+        font-size: 60px
+    }
+    .Q12 {
+        font-size: 60px
+    }
 }
